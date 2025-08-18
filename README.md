@@ -44,7 +44,7 @@ That's it! Your desktop is now alive.
 💬 Contact & Support
 Have questions or want to connect? Find me here:
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="25">]([https://instagram.com/your-instagram-id](https://www.instagram.com/_the_manish_rajput_?igsh=cG95YzU0eXlseHl1))
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="25">](https://instagram.com/_the_manish_rajput_)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="25">](https://discord.com/users/your-discord-id)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="25">](https://t.me/your-telegram-id)
 
