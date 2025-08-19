@@ -55,15 +55,18 @@ Have questions or want to connect? Find me here:
 ## ❓ Frequently Asked Questions (FAQ)
 
 Q: Will this slow down my computer?
+
 A: Nope! The app is highly optimized and pauses automatically during intensive tasks, so you won't even notice it's there.
 
 Q: How do I make it start automatically when I log in?
+
 A: You can add MaRKLiveWallpaper to your Login Items. Go to System Settings > General > Login Items and add the app to the "Open at Login" list.
 
 Q: How do I quit the app?
+
 A: Click the app icon in your menu bar and select "Quit" from the bottom of the menu.
 
-👨‍💻 For Developers: Building from Source
+#👨‍💻 For Developers: Building from Source
 If you want to clone the repository and build the app yourself, follow these steps.
 
 Clone the Repository:
