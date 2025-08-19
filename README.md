@@ -63,7 +63,7 @@ A: Click the app icon in your menu bar and select "Quit" from the bottom of the 
 If you want to clone the repository and build the app yourself, follow these steps.
 
 Clone the Repository:
-Open your Terminal and run this command:
+Click the copy button in the corner of the box below and paste the command into your Terminal.
 
 git clone https://github.com/your-username/MaRKLiveWallpaper.git
 
@@ -77,4 +77,3 @@ Run the App:
 In Xcode, select "My Mac" as the target and press the Run button (or Cmd + R).
 
 We hope you enjoy your new dynamic desktop. Thank you for using MaRKLiveWallpaper!
-
