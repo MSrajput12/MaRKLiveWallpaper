@@ -66,6 +66,10 @@ git clone https://github.com/MSrajput12/MaRKLiveWallpaper.git
 cd MaRKLiveWallpaper
 open MaRKLiveWallpaper.xcodeproj
 ```
+In Xcode:
+Select My Mac as target
+Press Run (or Cmd + R)
+
 ## 💬 Contact & Support
 Have questions or want to connect? Find me here:
 
@@ -88,24 +92,3 @@ Q: How do I quit the app?
 
 A: Click the app icon in your menu bar and select "Quit" from the bottom of the menu.
 
-#👨‍💻 For Developers: Building from Source
-If you want to clone the repository and build the app yourself, follow these steps.
-
-Clone the Repository:
-Click the copy button in the corner of the box below and paste the command into your Terminal.
-
-
-
-```
-git clone https://github.com/MSrajput12/MaRKLiveWallpaper.git
-```
-Open in Xcode:
-Navigate to the project folder and open the .xcodeproj file.
-```
-cd MaRKLiveWallpaper
-open MaRKLiveWallpaper.xcodeproj
-```
-Run the App:
-In Xcode, select "My Mac" as the target and press the Run button (or Cmd + R).
-
-We hope you enjoy your new dynamic desktop. Thank you for using MaRKLiveWallpaper!
