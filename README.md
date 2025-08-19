@@ -70,25 +70,24 @@ In Xcode:
 Select My Mac as target
 Press Run (or Cmd + R)
 
-## 💬 Contact & Support
-Have questions or want to connect? Find me here:
+## 💬 Contact & Support  
+Have questions or want to connect? Find me here:  
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="25">](https://instagram.com/_the_manish_rajput_)
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="25">](https://discord.com/users/your-discord-id)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="25">](https://t.me/your-telegram-id)
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25">
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_the_manish_rajput_)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram-id)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+
+---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-Q: Will this slow down my computer?
+**Q: Will this slow down my computer?**  
+A: Nope! The app is highly optimized and pauses automatically during intensive tasks, so you won’t even notice it’s there.  
 
-A: Nope! The app is highly optimized and pauses automatically during intensive tasks, so you won't even notice it's there.
+**Q: How do I make it start automatically when I log in?**  
+A: Go to **System Settings > General > Login Items** and add MaRKLiveWallpaper to the *Open at Login* list.  
 
-Q: How do I make it start automatically when I log in?
-
-A: You can add MaRKLiveWallpaper to your Login Items. Go to System Settings > General > Login Items and add the app to the "Open at Login" list.
-
-Q: How do I quit the app?
-
-A: Click the app icon in your menu bar and select "Quit" from the bottom of the menu.
+**Q: How do I quit the app?**  
+A: Click the app icon in your **menu bar** and select **Quit** at the bottom.  
 
