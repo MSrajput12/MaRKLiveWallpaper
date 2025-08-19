@@ -1,9 +1,9 @@
-**🎬 Welcome to MaRKLiveWallpaper for Mac!**
+### 🎬 Welcome to MaRKLiveWallpaper for Mac!
 
 
 Tired of your boring, static desktop? MaRKLiveWallpaper brings your screen to life with beautiful video wallpapers. It's simple, fun, and designed to run perfectly on your Mac without slowing it down.
 
-##✨ Core Features
+## ✨ Core Features
 🎬 Dynamic Wallpapers: Enjoy a stunning, animated desktop.
 
 📂 Use Your Own Videos: Import your favorite clips (.mp4, .mov) and turn them into wallpapers.
@@ -15,7 +15,8 @@ Tired of your boring, static desktop? MaRKLiveWallpaper brings your screen to li
 🔋 Smart Power Saving: Automatically pauses when you're using an app in full-screen (like watching a movie or playing a game) to save battery.
 
 🚀 Getting Started in 3 Easy Steps
-#Step 1: Installation
+
+# Step 1: Installation
 
 Download the App:
 
@@ -29,13 +30,13 @@ Open the .dmg file you just downloaded.
 
 Drag the MaRKLiveWallpaper icon into your Applications folder.
 
-#Step 2: First Launch
+# Step 2: First Launch
 
 Open your Applications folder and double-click MaRKLiveWallpaper to start it.
 
 Look for the new MaRKLiveWallpaper icon in the menu bar at the very top of your screen.
 
-#Step 3: Choose Your Wallpaper
+# Step 3: Choose Your Wallpaper
 
 Click the icon in your menu bar.
 
@@ -43,7 +44,7 @@ Select a wallpaper from the default list or click "Import Video..." to use your 
 
 That's it! Your desktop is now alive.
 
-##💬 Contact & Support
+## 💬 Contact & Support
 Have questions or want to connect? Find me here:
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="25">](https://instagram.com/_the_manish_rajput_)
@@ -51,18 +52,18 @@ Have questions or want to connect? Find me here:
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="25">](https://t.me/your-telegram-id)
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25">
 
-##❓ Frequently Asked Questions (FAQ)
+## ❓ Frequently Asked Questions (FAQ)
 
-#Q: Will this slow down my computer?
+# Q: Will this slow down my computer?
 A: Nope! The app is highly optimized and pauses automatically during intensive tasks, so you won't even notice it's there.
 
-#Q: How do I make it start automatically when I log in?
+# Q: How do I make it start automatically when I log in?
 A: You can add MaRKLiveWallpaper to your Login Items. Go to System Settings > General > Login Items and add the app to the "Open at Login" list.
 
-#Q: How do I quit the app?
+# Q: How do I quit the app?
 A: Click the app icon in your menu bar and select "Quit" from the bottom of the menu.
 
-##👨‍💻 For Developers: Building from Source
+## 👨‍💻 For Developers: Building from Source
 If you want to clone the repository and build the app yourself, follow these steps.
 
 Clone the Repository:
