@@ -1,4 +1,4 @@
-###🎬 Welcome to MaRKLiveWallpaper for Mac!
+**🎬 Welcome to MaRKLiveWallpaper for Mac!**
 Tired of your boring, static desktop? MaRKLiveWallpaper brings your screen to life with beautiful video wallpapers. It's simple, fun, and designed to run perfectly on your Mac without slowing it down.
 
 ##✨ Core Features
