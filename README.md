@@ -1,49 +1,71 @@
-### 🎬 Welcome to MaRKLiveWallpaper for Mac!
+# 🎬 MaRKLiveWallpaper for Mac
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/MSrajput12/MaRKLiveWallpaper?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/MSrajput12/MaRKLiveWallpaper?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MSrajput12/MaRKLiveWallpaper?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/MSrajput12/MaRKLiveWallpaper?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/MSrajput12/MaRKLiveWallpaper?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-Supported-blue?style=for-the-badge&logo=apple)
 
-Tired of your boring, static desktop? MaRKLiveWallpaper brings your screen to life with beautiful video wallpapers. It's simple, fun, and designed to run perfectly on your Mac without slowing it down.
+---
 
-## ✨ Core Features
-🎬 Dynamic Wallpapers: Enjoy a stunning, animated desktop.
+Tired of your boring, static desktop?  
+**MaRKLiveWallpaper** brings your screen to life with **beautiful video wallpapers**.  
+Simple, lightweight, and designed to run smoothly on your Mac without slowing it down.
 
-📂 Use Your Own Videos: Import your favorite clips (.mp4, .mov) and turn them into wallpapers.
+---
 
-🕊️ Lightweight Performance: Runs efficiently in the background, so your Mac stays fast.
+## ✨ Features
 
-🖥️ Multi-Monitor Support: Set a different live wallpaper on each of your displays.
+- 🎬 **Dynamic Wallpapers** – Stunning animated desktop experience  
+- 📂 **Use Your Own Videos** – Import `.mp4` or `.mov` and set as wallpaper  
+- 🕊️ **Lightweight Performance** – Optimized to run in background without lag  
+- 🖥️ **Multi-Monitor Support** – Different live wallpapers per display  
+- 🔋 **Smart Power Saving** – Auto-pauses when an app goes fullscreen  
+- ⚡ **Easy Setup** – Just drag & drop into Applications and run  
 
-🔋 Smart Power Saving: Automatically pauses when you're using an app in full-screen (like watching a movie or playing a game) to save battery.
+---
 
-🚀 Getting Started in 3 Easy Steps
+## 🚀 Getting Started
 
-# Step 1: Installation
+### 1. Installation
+1. Download the latest `.dmg` from the [Releases Page](https://github.com/MSrajput12/MaRKLiveWallpaper/releases).  
+2. Open the `.dmg` file.  
+3. Drag **MaRKLiveWallpaper** into your **Applications** folder.  
 
-Download the App:
+### 2. First Launch
+- Open **Applications > MaRKLiveWallpaper**.  
+- Look for the 🎬 icon in your **menu bar**.  
 
-Go to the Latest Release Page.
+### 3. Set a Wallpaper
+- Click the menu bar icon.  
+- Choose from default wallpapers or **Import Video…** to use your own.  
+- Enjoy your **live desktop**! 🎉  
 
-Click on MaRKLiveWallpaper.dmg to download it.
+---
 
-Install:
+## ❓ FAQ
 
-Open the .dmg file you just downloaded.
+**Q: Will this slow down my Mac?**  
+A: No! It’s optimized and auto-pauses during intensive tasks.  
 
-Drag the MaRKLiveWallpaper icon into your Applications folder.
+**Q: How do I make it start at login?**  
+A: Go to **System Settings > General > Login Items**, then add MaRKLiveWallpaper.  
 
-# Step 2: First Launch
+**Q: How do I quit the app?**  
+A: Click the menu bar icon → **Quit**.  
 
-Open your Applications folder and double-click MaRKLiveWallpaper to start it.
+---
 
-Look for the new MaRKLiveWallpaper icon in the menu bar at the very top of your screen.
+## 👨‍💻 Build from Source (For Developers)
 
-# Step 3: Choose Your Wallpaper
+Clone this repo and build with **Xcode**:
 
-Click the icon in your menu bar.
-
-Select a wallpaper from the default list or click "Import Video..." to use your own.
-
-That's it! Your desktop is now alive.
-
+```bash
+git clone https://github.com/MSrajput12/MaRKLiveWallpaper.git
+cd MaRKLiveWallpaper
+open MaRKLiveWallpaper.xcodeproj
+```
 ## 💬 Contact & Support
 Have questions or want to connect? Find me here:
 
