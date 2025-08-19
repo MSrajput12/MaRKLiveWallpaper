@@ -64,7 +64,13 @@ If you want to clone the repository and build the app yourself, follow these ste
 
 Clone the Repository:
 Click the copy button in the corner of the box below and paste the command into your Terminal.
+2.0.0
 
+```
+const semver = require('semver');
+
+console.log('We are currently using the semver specification version:', semver.SEMVER_SPEC_VERSION);
+```
 git clone https://github.com/your-username/MaRKLiveWallpaper.git
 
 Open in Xcode:
